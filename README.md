@@ -1,1 +1,1 @@
-A fortress of development where new ideas ignite 
+A fortress of development

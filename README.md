@@ -13,7 +13,7 @@ Main entry point for IgniteFortress.
 
 from core.ideas import IdeaForge
 from core.evolution import EvolutionEngine
-from core.architecture import For
+from core.architecture import Fortress
 
 
 def run():
